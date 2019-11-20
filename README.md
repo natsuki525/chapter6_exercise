@@ -1,1 +1,4 @@
-# chapter6_exercise
+# DMM WEBCAMPコンテンツ【メインビジュアルを作ろう】
+HTML/CSSを学ぼうの6章演習課題です。
+## 使い方
+html/cssファイルのため、pcのブラウザで実行できます。
